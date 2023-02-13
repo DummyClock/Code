@@ -3,7 +3,7 @@ Project: TextBased Pokemon
 
 How to Run-----------------------------------------------------------------------------------
 
-	Upon executing the file, the user will be greated and prompted to enter their name. 
+	Upon executing the demo file, the user will be greated and prompted to enter their name. 
 Once entered, the name will saved and the player will be rewarded with a starter Pokemon
 called Squirtle, 5 Pokeballs, and 3 Potions.
 	The user will then be presented a menu that will allow to make a selection; simply type in the number
