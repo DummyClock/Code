@@ -1,0 +1,25 @@
+Name: Elias Saied
+Project: TextBased Pokemon
+
+How to Run-----------------------------------------------------------------------------------
+
+	Upon executing the file, the user will be greated and prompted to enter their name. 
+Once entered, the name will saved and the player will be rewarded with a starter Pokemon
+called Squirtle, 5 Pokeballs, and 3 Potions.
+	The user will then be presented a menu that will allow to make a selection; simply type in the number
+of the option you'd like to do and it will execute. Further prompts may await in the other options.
+
+-----In Wild and Trainer Battles----
+	These selections will further prompt the user for battle commands. When a battle starts, the 
+player will automatically use one of their Pokemon to battle. From their, they will prompted for action.
+The player can either battle the foe, use an item from their bag, change out their current pokemon, or
+RUN AWAY! If the player chooses to battle, they will be prompted again to choose a move their Pokemon knows,
+afterwards their Pokemon will attack the foe, but in return they will be attacked as well. Some moves the 
+Pokemon do will lower the opposing Pokemon's health, but other moves can lower the stats of the opposing Pokemon;
+ultimately making the opposing Pokemon have a disadvantage in battle. Both Pokemon continue taking turns until one 
+faints. In a wild battle, this will end the match. In a trainer battle, the trainer with fainted Pokemon will only
+surrender if they have no other Pokemon in their team that aren't fainted. 
+
+
+
+-----------------------------------------------------------------------------------------------
